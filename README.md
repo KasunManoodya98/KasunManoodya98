@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Kasun Manoodya...
+Hello, I am **Kasun Manoodya**...<br>
 🔭 I’m interested in Software Engineering and Web Developing<br>🤝 I’m looking for a Software Engineering Internship<br>🌱 I’m currently learning ReactJS
 
 
