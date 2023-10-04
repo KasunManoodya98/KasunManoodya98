@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I am **Kasun Manoodya**...<br>
-🔭 I’m interested in Software Engineering and Web Developing<br>🤝 I’m looking for a Software Engineering Internship<br>🌱 I’m currently learning ReactJS and Spring Boot<br>📫 How to reach me - kasunmanoodya8@gmail.com
+🔭 I’m interested in Software Engineering and Web Developing<br>🤝 I’m doing my intern as for a Software Developer<br>🌱 I’m currently learning ReactJS and Spring Boot<br>📫 How to reach me - kasunmanoodya8@gmail.com
 
 
 ## 🌐 Socials:
